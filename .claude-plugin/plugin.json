@@ -1,0 +1,12 @@
+{
+  "name": "frontend-quickstart",
+  "description": "Analyze an unfamiliar frontend repository, summarize its architecture, and recommend relevant skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "frontend-quickstart maintainers"
+  },
+  "homepage": "<replace-with-your-github-repo-url>",
+  "repository": "<replace-with-your-github-repo-url>",
+  "license": "MIT",
+  "keywords": ["frontend", "analysis", "architecture", "onboarding", "skills"]
+}

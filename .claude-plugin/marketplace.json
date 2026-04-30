@@ -1,0 +1,18 @@
+{
+  "name": "frontend-quickstart-dev",
+  "description": "Development marketplace metadata for frontend-quickstart",
+  "owner": {
+    "name": "frontend-quickstart maintainers"
+  },
+  "plugins": [
+    {
+      "name": "frontend-quickstart",
+      "description": "Analyze an unfamiliar frontend repository, summarize its architecture, and recommend relevant skills.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "frontend-quickstart maintainers"
+      }
+    }
+  ]
+}

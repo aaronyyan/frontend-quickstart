@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Quickstart"
+  short_description: "Generate frontend architecture diagrams"
+  default_prompt: "Use $frontend-quickstart to analyze the current frontend project and generate an architecture diagram."
